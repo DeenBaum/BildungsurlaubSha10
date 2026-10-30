@@ -1,1 +1,3 @@
 # BildungsurlaubSha10
+sha256sum gedankenprotokoll_30_10_26.md
+6cb999739329b0b0f33a2212f6fb1c692d6b8697e277da842241faccd1972694  gedankenprotokoll_30_10_26.md
